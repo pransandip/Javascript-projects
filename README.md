@@ -1,3 +1,3 @@
 # 🌍 JavaScript works
 
--date, reduce example, projects
+- date, reduce example, projects
