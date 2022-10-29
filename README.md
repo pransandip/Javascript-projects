@@ -1,3 +1,3 @@
-# 🌍 react-redux-2
+# 🌍 JavaScript works
 
-- change date, useReducer example, store setup
+-date, reduce example, projects
